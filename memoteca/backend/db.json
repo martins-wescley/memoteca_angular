@@ -1,0 +1,74 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Wescley",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor'",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Wescley",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 5
+    },
+    {
+      "conteudo": "Teste Paginação",
+      "autoria": "Wescley",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "Teste Paginação",
+      "autoria": "Wescley",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 7
+    },
+    {
+      "conteudo": "Teste Paginação",
+      "autoria": "Wescley",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "Teste Favoritos paginação 1",
+      "autoria": "Wescley",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 9
+    },
+    {
+      "conteudo": "Teste Favoritos paginação 2",
+      "autoria": "Wescley",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "Teste Favoritos paginação 3",
+      "autoria": "Wescley",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 11
+    }
+  ]
+}
